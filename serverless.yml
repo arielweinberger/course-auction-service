@@ -18,3 +18,7 @@ functions:
       - http:
           method: GET
           path: /hello
+
+custom:
+  bundle:
+    linting: false
