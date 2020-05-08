@@ -1,17 +1,10 @@
-# Codingly.io: Base Serverless Framework Template
+<p align="center">
+  <img src="https://codingly-assets.s3-eu-west-1.amazonaws.com/Codingly+Logo.png" width="200px" height="200px"/>
+  </br>
+  <a href="https://codingly.io">codingly.io</a>
+  <br/>
+</p>
 
-https://codingly.io
+## Serverless Framework Bootcamp - Auction Service
 
-## What's included
-* Folder structure used consistently across our projects.
-* [serverless-pseudo-parameters plugin](https://www.npmjs.com/package/serverless-pseudo-parameters): Allows you to take advantage of CloudFormation Pseudo Parameters.
-* [serverless-bundle plugin](https://www.npmjs.com/package/serverless-pseudo-parameters): Bundler based on the serverless-webpack plugin - requires zero configuration and fully compatible with ES6/ES7 features.
-
-## Getting started
-```
-sls create --name YOUR_PROJECT_NAME --template-url https://github.com/codingly-io/sls-base
-cd YOUR_PROJECT_NAME
-npm install
-```
-
-You are ready to go!
+This application is provided as-is, as a part of the [Serverless Framework Bootcamp - Node.js, AWS & Microservices](https://www.udemy.com/course/serverless-framework?referralCode=3BE4411C3364176D6722) course.
