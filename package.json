@@ -21,7 +21,7 @@
     "@middy/http-event-normalizer": "^1.0.0-beta.11",
     "@middy/http-json-body-parser": "^1.0.0-beta.11",
     "@middy/validator": "^1.0.0-beta.11",
-    "aws-sdk": "^2.639.0",
+    "aws-sdk": "^2.814.0",
     "http-errors": "^1.7.3",
     "uuid": "^7.0.3"
   }
